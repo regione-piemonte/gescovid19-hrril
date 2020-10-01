@@ -1,0 +1,7 @@
+name*,version*,license*,copyrights*,end-of-support,dependencies,language,repository,email,URL
+PHPMAILER,,LGPL-2.1,,,,,,,
+excelreader,,PHP-3.0,,,,,,,
+gif,,Yamasoft permissive ,,,,,,,
+phpexcel,,LGPL-2.1,,,,,,,
+Resizesensor,,MIT,,,,,,,
+OpenSans,,Apache-2.0,,,,,,,
